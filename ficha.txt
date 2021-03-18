@@ -1,0 +1,5 @@
+Nombre del paciente: Guillermo Sebastian
+Edad: 25
+Sexo: M
+Frecuencia cardíaca: 54.96183206106872
+Condición: Dormido
